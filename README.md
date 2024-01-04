@@ -1,17 +1,29 @@
 # NoteX
 This is a simple noteX app that support the following  functionalities:
 
-Authentication Endpoints: POST/api/auth/signup, POST/api/auth/login
-Note Endpoints: GET /api/notes, GET/api/notes/:id, POST/api/notes, PUT/api/notes/:id, DELETE/api/notes/:id, POST/api/notes/:id/share, GET/api/search?q=:query
+**Authentication Endpoints:**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+POST/api/auth/signup
+POST/api/auth/login
+Note Endpoints: GET /api/notes
+GET/api/notes/:id
+POST/api/notes, 
+PUT/api/notes/:id,
+DELETE/api/notes/:id, POST/api/notes/:id/share, GET/api/search?q=:query
 Database: SQL
 Rate Limiting and Request Throttling
 Search Functionality: GET/api/search?q=:query
 Unit Tests and Integration Tests
 
-Requirements
+**Requirements**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All requirement has been listed in Requirement.txt
 
-Installation
+
+**Installation**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Clone the repository
 git clone (https://github.com/manas608/NoteX.git)
 Install Dependencies
