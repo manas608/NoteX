@@ -5,10 +5,10 @@ This is a simple noteX app that support the following  functionalities:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-POST/api/auth/signup
-POST/api/auth/login
-Note Endpoints: GET /api/notes
-GET/api/notes/:id
+POST/api/auth/signup.
+POST/api/auth/login.
+Note Endpoints: GET /api/notes.
+GET/api/notes/:id.
 POST/api/notes, 
 PUT/api/notes/:id,
 DELETE/api/notes/:id, POST/api/notes/:id/share, GET/api/search?q=:query
